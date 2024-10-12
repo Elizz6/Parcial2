@@ -1,0 +1,50 @@
+{
+  "id_partido": 12345,
+  "jugador": "001",
+  "competencia": "LaLiga",
+  "temporada": "2024/2025",
+  "fecha": "2024-10-10",
+  "hora": "18:00",
+  "estadio": "Santiago Bernabéu",
+  "arbitro": "Antonio Mateu Lahoz",
+  "sede": {
+    "_id": "ObjectId",
+    "ciudad": "String",
+    "pais": "String",
+    "capacidad": "Number"
+    },
+  "equipoLocal": {
+    "nombre": "String",
+    "pais": "String"
+    },
+  "equipoVisitante": {
+    "nombre": "String",
+    "pais": "String"
+    },
+  "eventos": [
+    {
+      "minuto": 15,
+      "tipo": "gol"
+    },
+    {
+      "minuto": 35,
+      "tipo": "falta"
+    },
+    {
+      "minuto": 42,
+      "tipo": "gol"
+    }
+   ],
+  "marcador": {
+    "local": 2,
+    "visitante": 1
+    },
+  "estadisticas": {
+    "posesion": 52,
+    "tiros_a_puerta": 3,
+    "faltas": 1,
+    "corners": 2,
+    "goles":2
+  }
+}
+ 

@@ -1,0 +1,20 @@
+{
+    "futbolista": 
+      {
+        "id_":"001",
+        "nombre": "Lionel Messi",
+        "fecha_de_nacimiento": "24 junio 1987",
+        "nacionalidad": "Argentina",
+        "altura": 1.70,
+        "peso": 72,
+        "equipos": "001"
+    
+      },
+      "logros_individuales": [
+        {"titulo": "Balón de Oro", "veces": 7},
+        {"titulo": "Bota de Oro", "veces": 6},
+        {"titulo": "Mejor Jugador FIFA", "veces": 2}
+      ]
+      
+  }
+  

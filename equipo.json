@@ -1,0 +1,21 @@
+
+{
+    "equipo":  {
+            "id_equipo": "001",
+            "id_jugador": "001",
+            "nombre_equipo": "FC Barcelona",
+            "fundacion": 1899,
+            "periodo": "2000-2021",
+            "posicion": "Delantero_lateral",
+            "pais": "String",
+            "entrenador": {
+                "nombre": "Xavi Hernández",
+                "nacionalidad": "España",
+                "edad": 44
+            },
+            "titulos": {
+                "liga": 27,
+                "copa_del_rey": 31,
+                "champions_league": 5
+            }
+        }}
