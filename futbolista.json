@@ -7,7 +7,8 @@
         "nacionalidad": "Argentina",
         "altura": 1.70,
         "peso": 72,
-        "equipos": "001"
+        "equipos": "001",
+        "activo":null
     
       },
       "logros_individuales": [
